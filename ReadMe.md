@@ -24,12 +24,23 @@ Training Effectiveness: Categorical (0: Low, 1: Moderate, 2: High)
 
 ### **Principal Component Analysis (PCA)**
 
+
+
 We used PCA to:
 
 Reduce dimensionality while preserving data variance
 Identify key performance factors
 Reveal patterns in player performance
 Improve interpretability of variable relationships
+
+#### **Visualizations**
+1. Correlation Matrix
+
+![img_1.png](img_1.png)
+
+2. Variables in PCA Space
+
+![img_2.png](img_2.png)
 
 ### **Hierarchical Clustering Analysis (HCA)**
 
@@ -39,6 +50,8 @@ Discover natural player groupings
 Provide interpretable visualization through dendrograms
 Capture clusters of varying shapes and sizes
 Identify outliers and exceptional performance patterns
+
+
 
 ### Key Findings
 
