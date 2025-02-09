@@ -1,6 +1,6 @@
 # Basketball Performance Analysis 🏀
 
-## **Building Strength, Maximizing Performance: Where Data Meets the Court** 🏋️‍♂️🎯
+## **Building Strength, Maximizing Performance: Where Data Drives Success** 🏋️‍♂️🎯
 
 ### **Overview**
 
